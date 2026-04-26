@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>LocalTimer</title>
+        <item>
+            <title>0.9</title>
+            <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure 
+                url="https://yu1ijnkasd.github.io/localtimersparkleupdate/LocalTimer-0.9.dmg"
+                sparkle:edSignature="SJz7jTfsR0nBHtRg6oQ3STz4sUFirLTgf/kWBczE4iY7kSxpSy34iGDor9/OGixyiRXQT+kpgJPhUJZEmflsDQ=="
+                length="4072503"
+                type="application/octet-stream"/>
+        </item>
+    </channel>
+</rss>
