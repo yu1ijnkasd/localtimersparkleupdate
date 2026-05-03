@@ -3,15 +3,15 @@
     <channel>
         <title>LocalTimer</title>
         <item>
-            <title>0.9</title>
-            <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
+            <title>2.0</title>
+            <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure 
-                url="https://yu1ijnkasd.github.io/localtimersparkleupdate/LocalTimer-0.9.dmg"
-                sparkle:edSignature="SJz7jTfsR0nBHtRg6oQ3STz4sUFirLTgf/kWBczE4iY7kSxpSy34iGDor9/OGixyiRXQT+kpgJPhUJZEmflsDQ=="
-                length="4072503"
+            <enclosure
+                url="https://yu1ijnkasd.github.io/localtimersparkleupdate/LocalTimer-2.0.dmg"
+                sparkle:edSignature="TvLZUver7vHdG8ebzNhGEaRDasFclWNO3uzJkq9OPiEVa4HnwKnXFAIxN3oRi2k8WetIZdECzO9WETYO6P/ZBg=="
+                length="4072492"
                 type="application/octet-stream"/>
         </item>
     </channel>
