@@ -9,7 +9,7 @@
             <sparkle:shortVersionString>2.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/yu1ijnkasd/localtimersparkleupdate/releases/download/v2.1/LocalTimer-2.1.dmg"
+                url="https://github.com/yu1ijnkasd/localtimersparkleupdate/releases/tag/update_LocalTimer_2.1"
                 sparkle:edSignature="d/JGimjx2c9KrCvc1iCuF+qhGYEig8qp4T6Tnwf6UP821Eidpq/ctMCxKCDBGALQKbE5PL03X46rcOlqhC7RCw=="
                 length="4251994"
                 type="application/octet-stream"/>
