@@ -3,6 +3,18 @@
     <channel>
         <title>LocalTimer</title>
         <item>
+            <title>2.2</title>
+            <pubDate>Mon, 08 Sep 2026 00:00:00 +0000</pubDate>
+            <sparkle:version>2.2</sparkle:version>
+            <sparkle:shortVersionString>2.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/yu1ijnkasd/localtimersparkleupdate/releases/download/update_LocalTimer_2.2/LocalTimer-2.2.dmg"
+                sparkle:edSignature="VN4D3I1aZR3p+YMOVdOtQ1nKWXUcQvMz4/cn96BTdQqHR+dC+PF2xT5CYD6Wz6uiZ+Q1/Es7wIHxQykTqixlDw=="
+                length="5991517"
+                type="application/octet-stream"/>
+        </item>
+        <item>
             <title>2.1</title>
             <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
             <sparkle:version>2.1</sparkle:version>
