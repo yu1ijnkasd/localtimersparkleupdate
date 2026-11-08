@@ -2,6 +2,16 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2">
     <channel>
         <item>
+          <title>Versió 3.6</title>
+          <sparkle:version>3.6</sparkle:version>
+          <sparkle:shortVersionString>3.6</sparkle:shortVersionString>
+          <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+          <pubDate>Sun, 08 Nov 2026 19:13:10 +0000</pubDate>
+          <enclosure url="https://github.com/yu1ijnkasd/localtimersparkleupdate/releases/download/update_LocalTimer_3.6/LocalTimer-3.6.dmg"
+            sparkle:edSignature="ysH8CZPFvIP86wYDBdoz/Im2k7c9Y9xm+ANhi6EJzqgTKrTsz0tVudsvzpaAe26u+JUgqIWcjtKG8tBHNxsrDQ=="
+            length="12804664" type="application/octet-stream"/>
+        </item>
+        <item>
           <title>Versió 3.5</title>
           <sparkle:version>3.5</sparkle:version>
           <sparkle:shortVersionString>3.5</sparkle:shortVersionString>
